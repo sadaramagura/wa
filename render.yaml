@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yukiwakame-02
+    name: massiro
     env: python
     region: Oregon
     plan: free
